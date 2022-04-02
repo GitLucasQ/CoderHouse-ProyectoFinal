@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1648926410794,
+    "productos": [
+      {
+        "id": 1,
+        "timestamp": 1648926410795,
+        "nombre": "Televisor Samsung",
+        "descripcion": "televisor HD 4K",
+        "codigo": "TEL-031",
+        "url": "https://mercury.vteximg.com.br/arquivos/ids/5256948-3000-3000/image-6bb43d03e5e1493e8cd7a0d8de491340.jpg?v=637786608940870000",
+        "precio": 2199,
+        "stock": 1
+      },
+      {
+        "id": 2,
+        "timestamp": 1648926553168,
+        "nombre": "Laptop Asus",
+        "descripcion": "producto de computo",
+        "codigo": "TEC-001",
+        "url": "https://mercury.vteximg.com.br/arquivos/ids/5970366-3000-3000/image-d73f01d58cab41529c121bb2d594c68c.jpg?v=637817666434800000",
+        "precio": 2599,
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "timestamp": 1648926438528,
+    "productos": [
+      {
+        "id": 1,
+        "timestamp": 1648926438528,
+        "nombre": "Xiaomi Redmi Note 11",
+        "descripcion": "celular marca Xiaomi",
+        "codigo": "TEL-031",
+        "url": "https://mercury.vteximg.com.br/arquivos/ids/5582360-3000-3000/image-06872420312c481087b06e31d03846c7.jpg?v=637799384567200000",
+        "precio": 899,
+        "stock": 2
+      }
+    ]
+  }
+]
